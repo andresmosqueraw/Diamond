@@ -1,0 +1,154 @@
+.navbar {
+    background-color: black;
+}
+
+.navbar-expand-sm .navbar-nav .nav-link {
+    padding-right: 0.5rem;
+    padding-left: 4rem;
+}
+
+.container-login {
+    padding-left: 20%;
+    padding-right: 20%;
+}
+
+.bar{
+    padding-left: 27%;
+    margin: 0;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+    color: #F5F5F7;
+}
+
+.navbar-dark .navbar-nav .nav-link:hover {
+    color: white;
+}
+
+.slide-title {
+    font-size: 100px;
+}
+
+.slide-p {
+    font-size: 30px;
+}
+
+.img-principal {
+    background-image: url(/img/slide2.jpg);
+}
+
+.img-principal-2 {
+    background-image: url(/img/slide1.jpg);
+}
+
+.p-md-5 {
+    padding: 6rem!important;
+}
+
+.m-md-3 {
+    margin: 0rem!important;
+}
+
+.title-img {
+    color: white;
+}
+
+.p-img {
+    color: white;
+}
+
+.fw-normal {
+    font-weight: 620!important;
+}
+
+button {
+    background-color: #333333;
+    border: 0px;
+    border-radius: 25px;
+    padding: 2% 6%;
+}
+
+.comprar {
+    color: #F5F5F7;
+    font-size: 130%;
+    text-decoration: none;
+}
+
+.comprar:hover {
+    color: #F5F5F7;
+}
+
+.p-product {
+    color: white;
+}
+
+.btn {
+    color: white;
+}
+
+.product1 {
+    width: 100%;
+    background-image: url(/img/pan1.jpg);
+    padding-bottom: 21%;
+}
+
+.product2 {
+    width: 100%;
+    padding-bottom: 21%;
+    background-image: url(/img/pan2.jpg);
+}
+
+.product3 {
+    width: 100%;
+    padding-bottom: 21%;
+    background-image: url(/img/pan3.jpg);
+}
+
+.product4 {
+    width: 100%;
+    padding-bottom: 21%;
+    background-image: url(/img/pan4.jpg);
+}
+
+.product5 {
+    width: 100%;
+    padding-bottom: 21%;
+    background-image: url(/img/pan5.jpg);
+}
+
+.product6 {
+    width: 100%;
+    padding-bottom: 21%;
+    background-image: url(/img/pan6.jpg);
+}
+
+footer {
+    background-color: #F5F5F7;
+}
+
+.py-5 {
+    padding-left: 6rem!important;
+}
+
+.link-secondary {
+    color: #333333;
+    text-decoration: none;
+}
+
+.link-secondary:hover {
+    color: #333333;
+    text-decoration: underline;
+}
+
+.m-md-3 {
+    margin-bottom: 1rem!important;
+}
+
+.olvidar{
+    text-decoration: none;
+}
+
+.olvidar:hover{
+    text-decoration: underline;
+}
+
